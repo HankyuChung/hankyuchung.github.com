@@ -1,1 +1,6 @@
 paginate: 3
+
+  comments : 
+    provider : disqus
+    disqus : 
+      short_name : chunghankyu

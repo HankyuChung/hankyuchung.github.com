@@ -5,8 +5,11 @@ category: [맨체스터 더비]
 tags: []
 ---
 
-* [야야 투레](https://www.youtube.com/watch?v=5rggdoigF7k)
+{% include video17.html %}
 
-* [에딘 제코](https://www.youtube.com/watch?v=vs5Iu9oQDRE)
+* [야야 투레]
 
+{% include video18.html %}
+
+* [에딘 제코]
 

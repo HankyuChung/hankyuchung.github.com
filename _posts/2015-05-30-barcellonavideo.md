@@ -5,7 +5,11 @@ category: [엘 클라시코 더비]
 tags: []
 ---
 
-* [리오넬 메시](https://www.youtube.com/watch?v=HqqKxAH9U3k)
+{% include video13.html %}
 
-* [샤비 에르난데스](https://www.youtube.com/watch?v=EicCXIkGKdI)
+* [리오넬 메시]
+
+{% include video14.html %}
+
+* [샤비 에르난데스]
 

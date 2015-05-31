@@ -5,8 +5,12 @@ category: [데어 클라시커 더비]
 tags: []
 ---
 
-* [마르코 로이스](https://www.youtube.com/watch?v=rlYrndbblKk)
+{% include video19.html %}
 
-* [오바메양](https://www.youtube.com/watch?v=fdPWKR2yysY)
+* [마르코 로이스]
+
+{% include video20.html %}
+
+* [오바메양]
 
 

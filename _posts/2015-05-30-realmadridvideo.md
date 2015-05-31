@@ -5,9 +5,13 @@ category: [엘 클라시코 더비]
 tags: []
 ---
 
-* [크리스티아누 호날두](https://youtu.be/dRggqs8Gq1A)
+{% include video11.html %}
 
-* [가레스 베일](https://www.youtube.com/watch?v=2GF9f-apJ1c)
+* [크리스티아누 호날두]
+
+{% include video12.html %}
+
+* [가레스 베일]
 
 
 

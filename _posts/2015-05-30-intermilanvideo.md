@@ -5,8 +5,12 @@ category: [밀란 더비]
 tags: []
 ---
 
-* [팔라시오](https://www.youtube.com/watch?v=iJ-bv5421wA)
+{% include video25.html %}
 
-* [한다노비치](https://www.youtube.com/watch?v=C1Dj9Zhkx3c)
+* [팔라시오]
+
+{% include video26.html %}
+
+* [한다노비치]
 
  

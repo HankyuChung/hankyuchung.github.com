@@ -17,8 +17,8 @@ defaults:
 description: derby
 author:
   name: jhk92613
-#  email: hankyu926.naver.com
-
+  bio: 5조's Blog
+ 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html

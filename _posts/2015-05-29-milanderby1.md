@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "밀란 더비 역사"
+title: "밀란 더비 소개"
 category: 
 tags: [밀란 더비]
 ---

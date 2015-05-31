@@ -1,7 +1,7 @@
 <!-- sidebar.html -->
-<header class="sidebar-header" role="banner">
+#<header class="sidebar-header" role="banner">
 	<a href="{{ site.BASE_PATH }}/">
-		<img src="http://pic.azimage.com/photos/premium/thumbs/100/soccer-ball_10036294.jpg" class="img-circle" />
+		<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
 	</a>
 	<h3 class="title">
         <a href="{{ site.BASE_PATH }}/">{{ site.title }}</a>

@@ -6,18 +6,18 @@ tags: []
 ---
 **[레알 마드리드 vs 바르셀로나]**
 
-* [영상 1]
 
 {% include video.html %}
 
-* [영상 2]
+* [영상 1]
 
 {% include video1.html %}
 
-* [영상 3]
+* [영상 2]
 
 {% include video2.html %}
 
+* [영상 3]
 
  
 

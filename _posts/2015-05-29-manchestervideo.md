@@ -7,11 +7,17 @@ tags: []
 
 **[맨체스터 유나이티드 vs 멘체스터 시티]**
 
-* [영상 1](https://www.youtube.com/watch?v=QEDkfDuyFto)
+{% include video3.html %}
 
-* [영상 2](https://www.youtube.com/watch?v=rTKRxavpdQ8)
+* [영상 1]
 
-* [영상 3](https://www.youtube.com/watch?v=n4Cly-FElnY)
+{% include video4.html %}
+
+* [영상 2]
+
+{% include video5.html %}
+
+* [영상 3]
 
  
  

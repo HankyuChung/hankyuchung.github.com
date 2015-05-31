@@ -1,7 +1,7 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
+#paginate: 10 # pagination based on number of posts
+#paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
@@ -12,14 +12,12 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: 5조's blog
 
-description: Stylish Jekyll Theme
+description: derby
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
+  name: jhk92613
+  email: hankyu926.naver.com
   pinterest: asd123
   linkedin: asd123
   bio: Your stylish, minimalist theme!

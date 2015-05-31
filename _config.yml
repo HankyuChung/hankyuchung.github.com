@@ -17,10 +17,26 @@ defaults:
 description: derby
 author:
   name: jhk92613
-  email: hankyu926.naver.com
+#  email: hankyu926.naver.com
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 BASE_PATH:
+
+comments :
+  provider : disqus
+  disqus :
+    short_name : jekyllbootstrap
+  livefyre :
+    site_id : 123
+  intensedebate :
+    account : 123abc
+  facebook :
+    appid : 123
+    num_posts: 5
+    width: 580
+    colorscheme: light
+  duoshuo :
+    short_name : jekyllbootstrap

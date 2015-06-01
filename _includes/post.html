@@ -96,9 +96,8 @@
         <p class="author-bio">{{site.author.bio}}</p>
       </section>
     </div>
-    {% include JB/comments %}
     <div class="clearfix"></div>
-
+    
 		<ul class="pager">
 		  {% if page.previous %}
 		  <li class="previous"><a href="{{ site.BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
@@ -112,6 +111,7 @@
 		  {% endif %}
 		</ul>
 		<hr>
+                {% include disqus.html %}
 	</div>
 	<div class="col-sm-2 sidebar-2">
 	</div>
